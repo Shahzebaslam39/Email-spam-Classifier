@@ -96,6 +96,6 @@ Then open in your browser: `http://localhost:8501`
 
 ## 👨‍💻 Author
 
-Developed by **[Shazaib Aslam](https://github.com/hammadshah18)**
+Developed by **[Shazaib Aslam](https://github.com/Shahzebaslam39)**
 
 💡 Contributions, issues, and feature requests are welcome!
